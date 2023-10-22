@@ -1,2 +1,1 @@
-# pracrtise
-this is only for practise
+This is only for practise nothing else.
